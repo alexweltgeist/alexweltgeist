@@ -1,4 +1,4 @@
-Amateur enthusiast on data science
+Amateur and enthusiast on data science
 
 learning @ZHAW
 
