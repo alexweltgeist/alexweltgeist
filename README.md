@@ -1,4 +1,3 @@
-Amateur data scientist
+**data scientist amateur**
 
-learning @ZHAW
-
+*learning @ZHAW*
